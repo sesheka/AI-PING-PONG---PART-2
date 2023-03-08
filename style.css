@@ -1,0 +1,36 @@
+.heading
+{
+width: 100%;
+text-align: left;
+background-color: white;
+color: black;
+}
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid black;
+    font-size: 22px;
+}
+
+#start ,#status, #restart
+{
+    font-size: 30px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+}
+canvas
+{ 
+    margin-top: 95px;
+    border-color: white;
+}
+.modal-dialog{
+    width: 90%;
+}
+.modal-body{
+    text-align: left;
+    font-size: 22px;
+}
